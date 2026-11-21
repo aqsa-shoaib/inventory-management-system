@@ -54,7 +54,3 @@ Each product is stored in an `Item` node with a reference to the next node. The 
 ## Notes
 
 Inventory is stored in memory while the program is running; changes reset when the app closes. This project is a learning-focused inventory simulator, not a production retail system.
-
-## Acknowledgment
-
-Adapted from an earlier Java inventory-management class project by Maheen Shoaib (`InventoCraftIMS`), with a revised interface, validation, and automated tests.
